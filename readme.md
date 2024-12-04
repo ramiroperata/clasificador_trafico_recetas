@@ -2,6 +2,8 @@
 
 Este repositorio contiene un proyecto de ciencia de datos enfocado en clasificar recetas según su nivel de tráfico utilizando modelos de aprendizaje automático. Desde la recolección y limpieza de datos hasta la implementación de un modelo de clasificación, este proyecto proporciona una solución integral.  
 
+*[Probalo acá](https://huggingface.co/spaces/ramiropm/recipe_traffic_classifier)*
+
 ## 🛠️ Componentes del Proyecto  
 1. **Recolección y Procesamiento de Datos**  
    - Obtención de datos de recetas y su tráfico.  
