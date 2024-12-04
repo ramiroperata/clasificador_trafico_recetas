@@ -16,6 +16,7 @@ Este repositorio contiene un proyecto de ciencia de datos enfocado en clasificar
    - Permite al usuario cargar datos de recetas y obtener predicciones en tiempo real.  
 
 ## 📂 Estructura del Repositorio  
+```
 📁 clasificador_trafico_recetas
 ├── 📂 data/ # Datos originales
 ├── 📂 notebook/ # Notebook de análisis y entrenamiento
@@ -25,7 +26,7 @@ Este repositorio contiene un proyecto de ciencia de datos enfocado en clasificar
 ├── 📂 model/ # Modelo entrenado
 ├── 📜 README.md # Este archivo
 └── 📜 LICENSE # Información sobre la licencia
-
+```
 ## 🔍 Exploración y Análisis de Datos  
 Los datos de recetas fueron obtenidos de una fuente pública, analizados para identificar patrones relevantes y preprocesados para alimentar el modelo. En la carpeta `notebooks/` encontrarás:  
 - Visualización de distribución de tráfico.  
